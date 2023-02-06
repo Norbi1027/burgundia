@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\burgundia\run\bin\Debug\run.exe.config
+C:\Users\sandor.norbert\source\repos\burgundia\run\bin\Debug\run.exe
+C:\Users\sandor.norbert\source\repos\burgundia\run\bin\Debug\run.pdb
+C:\Users\sandor.norbert\source\repos\burgundia\run\obj\Debug\run.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\burgundia\run\obj\Debug\run.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\burgundia\run\obj\Debug\run.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\burgundia\run\obj\Debug\run.exe
+C:\Users\sandor.norbert\source\repos\burgundia\run\obj\Debug\run.pdb

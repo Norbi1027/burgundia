@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\burgundia\számok bekérése\bin\Debug\számok bekérése.exe.config
+C:\Users\sandor.norbert\source\repos\burgundia\számok bekérése\bin\Debug\számok bekérése.exe
+C:\Users\sandor.norbert\source\repos\burgundia\számok bekérése\bin\Debug\számok bekérése.pdb
+C:\Users\sandor.norbert\source\repos\burgundia\számok bekérése\obj\Debug\számok bekérése.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\burgundia\számok bekérése\obj\Debug\számok bekérése.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\burgundia\számok bekérése\obj\Debug\számok bekérése.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\burgundia\számok bekérése\obj\Debug\számok bekérése.exe
+C:\Users\sandor.norbert\source\repos\burgundia\számok bekérése\obj\Debug\számok bekérése.pdb
