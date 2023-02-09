@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\burgundia\Respirációs kvóciens kiszámítása\bin\Debug\Respirációs kvóciens kiszámítása.exe.config
+C:\Users\sandor.norbert\source\repos\burgundia\Respirációs kvóciens kiszámítása\bin\Debug\Respirációs kvóciens kiszámítása.exe
+C:\Users\sandor.norbert\source\repos\burgundia\Respirációs kvóciens kiszámítása\bin\Debug\Respirációs kvóciens kiszámítása.pdb
+C:\Users\sandor.norbert\source\repos\burgundia\Respirációs kvóciens kiszámítása\obj\Debug\Respirációs kvóciens kiszámítása.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\burgundia\Respirációs kvóciens kiszámítása\obj\Debug\Respirációs kvóciens kiszámítása.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\burgundia\Respirációs kvóciens kiszámítása\obj\Debug\Respirációs kvóciens kiszámítása.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\burgundia\Respirációs kvóciens kiszámítása\obj\Debug\Respirációs kvóciens kiszámítása.exe
+C:\Users\sandor.norbert\source\repos\burgundia\Respirációs kvóciens kiszámítása\obj\Debug\Respirációs kvóciens kiszámítása.pdb
