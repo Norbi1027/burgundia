@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\burgundia\pénzérme\obj\Debug\pénzérme.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\burgundia\pénzérme\obj\Debug\pénzérme.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\burgundia\pénzérme\obj\Debug\pénzérme.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\burgundia\pénzérme\bin\Debug\pénzérme.exe.config
+C:\Users\sandor.norbert\source\repos\burgundia\pénzérme\bin\Debug\pénzérme.exe
+C:\Users\sandor.norbert\source\repos\burgundia\pénzérme\bin\Debug\pénzérme.pdb
+C:\Users\sandor.norbert\source\repos\burgundia\pénzérme\obj\Debug\pénzérme.exe
+C:\Users\sandor.norbert\source\repos\burgundia\pénzérme\obj\Debug\pénzérme.pdb
