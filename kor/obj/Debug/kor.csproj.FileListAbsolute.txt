@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\szisarp\kor\bin\Debug\kor.exe.config
+C:\Users\sandor.norbert\source\repos\szisarp\kor\bin\Debug\kor.exe
+C:\Users\sandor.norbert\source\repos\szisarp\kor\bin\Debug\kor.pdb
+C:\Users\sandor.norbert\source\repos\szisarp\kor\obj\Debug\kor.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\szisarp\kor\obj\Debug\kor.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\szisarp\kor\obj\Debug\kor.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\szisarp\kor\obj\Debug\kor.exe
+C:\Users\sandor.norbert\source\repos\szisarp\kor\obj\Debug\kor.pdb

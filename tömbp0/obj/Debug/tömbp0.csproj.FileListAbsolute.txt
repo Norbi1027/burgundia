@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\szisarp\tömbp0\bin\Debug\tömbp0.exe.config
+C:\Users\sandor.norbert\source\repos\szisarp\tömbp0\bin\Debug\tömbp0.exe
+C:\Users\sandor.norbert\source\repos\szisarp\tömbp0\bin\Debug\tömbp0.pdb
+C:\Users\sandor.norbert\source\repos\szisarp\tömbp0\obj\Debug\tömbp0.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\szisarp\tömbp0\obj\Debug\tömbp0.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\szisarp\tömbp0\obj\Debug\tömbp0.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\szisarp\tömbp0\obj\Debug\tömbp0.exe
+C:\Users\sandor.norbert\source\repos\szisarp\tömbp0\obj\Debug\tömbp0.pdb

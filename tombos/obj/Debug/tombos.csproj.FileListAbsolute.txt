@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\szisarp\tombos\bin\Debug\tombos.exe.config
+C:\Users\sandor.norbert\source\repos\szisarp\tombos\bin\Debug\tombos.exe
+C:\Users\sandor.norbert\source\repos\szisarp\tombos\bin\Debug\tombos.pdb
+C:\Users\sandor.norbert\source\repos\szisarp\tombos\obj\Debug\tombos.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\szisarp\tombos\obj\Debug\tombos.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\szisarp\tombos\obj\Debug\tombos.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\szisarp\tombos\obj\Debug\tombos.exe
+C:\Users\sandor.norbert\source\repos\szisarp\tombos\obj\Debug\tombos.pdb

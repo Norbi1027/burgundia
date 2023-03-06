@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\szisarp\sziget\bin\Debug\sziget.exe.config
+C:\Users\sandor.norbert\source\repos\szisarp\sziget\bin\Debug\sziget.exe
+C:\Users\sandor.norbert\source\repos\szisarp\sziget\bin\Debug\sziget.pdb
+C:\Users\sandor.norbert\source\repos\szisarp\sziget\obj\Debug\sziget.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\szisarp\sziget\obj\Debug\sziget.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\szisarp\sziget\obj\Debug\sziget.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\szisarp\sziget\obj\Debug\sziget.exe
+C:\Users\sandor.norbert\source\repos\szisarp\sziget\obj\Debug\sziget.pdb

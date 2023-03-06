@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\szisarp\négyszog\bin\Debug\négyszog.exe.config
+C:\Users\sandor.norbert\source\repos\szisarp\négyszog\bin\Debug\négyszog.exe
+C:\Users\sandor.norbert\source\repos\szisarp\négyszog\bin\Debug\négyszog.pdb
+C:\Users\sandor.norbert\source\repos\szisarp\négyszog\obj\Debug\négyszog.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\szisarp\négyszog\obj\Debug\négyszog.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\szisarp\négyszog\obj\Debug\négyszog.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\szisarp\négyszog\obj\Debug\négyszog.exe
+C:\Users\sandor.norbert\source\repos\szisarp\négyszog\obj\Debug\négyszog.pdb
