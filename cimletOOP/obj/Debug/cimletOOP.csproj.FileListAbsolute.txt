@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\szisarp\cimletOOP\bin\Debug\cimletOOP.exe.config
+C:\Users\sandor.norbert\source\repos\szisarp\cimletOOP\bin\Debug\cimletOOP.exe
+C:\Users\sandor.norbert\source\repos\szisarp\cimletOOP\bin\Debug\cimletOOP.pdb
+C:\Users\sandor.norbert\source\repos\szisarp\cimletOOP\obj\Debug\cimletOOP.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\szisarp\cimletOOP\obj\Debug\cimletOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\szisarp\cimletOOP\obj\Debug\cimletOOP.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\szisarp\cimletOOP\obj\Debug\cimletOOP.exe
+C:\Users\sandor.norbert\source\repos\szisarp\cimletOOP\obj\Debug\cimletOOP.pdb
