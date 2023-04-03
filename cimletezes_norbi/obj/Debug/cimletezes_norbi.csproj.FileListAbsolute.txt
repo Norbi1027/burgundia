@@ -1,0 +1,8 @@
+C:\Users\sandor.norbert\source\repos\szisarp\cimletezes_norbi\bin\Debug\cimletezes_norbi.exe.config
+C:\Users\sandor.norbert\source\repos\szisarp\cimletezes_norbi\bin\Debug\cimletezes_norbi.exe
+C:\Users\sandor.norbert\source\repos\szisarp\cimletezes_norbi\bin\Debug\cimletezes_norbi.pdb
+C:\Users\sandor.norbert\source\repos\szisarp\cimletezes_norbi\obj\Debug\cimletezes_norbi.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\szisarp\cimletezes_norbi\obj\Debug\cimletezes_norbi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandor.norbert\source\repos\szisarp\cimletezes_norbi\obj\Debug\cimletezes_norbi.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\szisarp\cimletezes_norbi\obj\Debug\cimletezes_norbi.exe
+C:\Users\sandor.norbert\source\repos\szisarp\cimletezes_norbi\obj\Debug\cimletezes_norbi.pdb
