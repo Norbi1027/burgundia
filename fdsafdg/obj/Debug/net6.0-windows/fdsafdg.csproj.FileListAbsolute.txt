@@ -1,0 +1,17 @@
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\bin\Debug\net6.0-windows\fdsafdg.exe
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\bin\Debug\net6.0-windows\fdsafdg.deps.json
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\bin\Debug\net6.0-windows\fdsafdg.runtimeconfig.json
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\bin\Debug\net6.0-windows\fdsafdg.dll
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\bin\Debug\net6.0-windows\fdsafdg.pdb
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.Form1.resources
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.csproj.GenerateResource.cache
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.AssemblyInfoInputs.cache
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.AssemblyInfo.cs
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.dll
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\refint\fdsafdg.dll
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.pdb
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\fdsafdg.genruntimeconfig.cache
+C:\Users\sandor.norbert\source\repos\szísárp\fdsafdg\obj\Debug\net6.0-windows\ref\fdsafdg.dll
